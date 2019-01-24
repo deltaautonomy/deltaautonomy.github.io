@@ -1,2 +1,2 @@
 # deltaautonomy.github.io
-Delta Autonomy website
+Delta Autonomy Website
